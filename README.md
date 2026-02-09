@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Sarthak+Lama+%F0%9F%91%8B;Backend+Developer+%7C+API+Architect;Python+Django+%7C+Spring+Boot+Expert;Building+Scalable+Server+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Sarthak+Lama+%F0%9F%91%8B;Aspiring+Backend+Developer;Learning+Django+%7C+Spring+Boot;On+a+Journey+to+Master+Backend+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,31 +15,37 @@
 ---
 
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ```python
 class BackendDeveloper:
     def __init__(self):
         self.name = "Sarthak Lama"
-        self.role = "Backend Developer"
+        self.role = "Aspiring Backend Developer"
         self.language_spoken = ["ne_NP", "en_US"]
-        self.current_focus = ["Python Django", "Spring Boot", "Microservices"]
+        self.currently_learning = ["Python Django", "Spring Boot", "Backend Development"]
+        self.status = "Learning and Growing Every Day! 🌱"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Thanks for dropping by! Let's learn and build something amazing together!")
 
 me = BackendDeveloper()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br>
 
-### 💼 What I Do
+### 💼 My Journey
 
-- 🔭 Currently crafting **robust backend systems** with **Python Django** & **Spring Boot**
-- 🌱 Mastering **RESTful APIs**, **Microservices Architecture**, and **Database Optimization**
-- 💡 Passionate about **scalable systems**, **clean code**, and **performance tuning**
-- 🎯 Building **high-performance** server-side solutions that power modern applications
-- ⚡ Love designing **efficient APIs** and optimizing **complex database queries**
-- 🛠️ Exploring **cloud technologies** and **DevOps practices**
+- 🌱 Currently **learning Backend Development** with **Python Django** & **Spring Boot**
+- 📚 Exploring **RESTful APIs**, **Database Management**, and **Server-Side Programming**
+- 💡 Building projects to strengthen my understanding of **backend technologies**
+- 🎯 Working towards becoming a **skilled backend developer**
+- ⚡ Passionate about **learning new technologies** and **solving problems**
+- 🛠️ Practicing coding challenges and improving my **problem-solving skills**
+- 📖 Open to **collaborations** and **learning opportunities**
+
+<br clear="both">
 
 ### 📫 Let's Connect
 
@@ -63,9 +69,9 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technologies I'm Learning
 
-### 🎯 Backend Mastery
+### 🎯 Backend Development (Learning)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django"/>
@@ -75,7 +81,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-### 🗄️ Database & Storage
+### 🗄️ Databases (Exploring)
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -83,7 +89,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-### 🎨 Frontend Essentials
+### 🎨 Frontend Basics
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -91,13 +97,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
@@ -131,7 +136,7 @@ me.say_hi()
 
 ---
 
-## 📈 Coding Stats
+## 📈 Learning Progress
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -167,7 +172,7 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Thanks for visiting! 😊**
+**Thanks for visiting! Let's grow together! 😊**
 
 ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
 
