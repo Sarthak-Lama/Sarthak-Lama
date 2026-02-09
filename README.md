@@ -92,30 +92,28 @@ I'm an **aspiring backend developer** from Nepal, currently on an exciting journ
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarthak-lama&show_icons=true&count_private=true&hide_border=true&title_color=A277FF&icon_color=A277FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-lama&theme=react&hide_border=true&background=0d1117&stroke=61dafb&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthak-lama&show_icons=true&count_private=true&hide_border=true&title_color=A277FF&icon_color=A277FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-lama&theme=react&border=61dafb&hide_border=true&background=0d1117&stroke=61dafb&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-lama&layout=compact&hide_border=true&title_color=A277FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-lama&layout=compact&hide_border=true&title_color=A277FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarthak-lama&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
 ## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-lama&custom_title=Sarthak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A277FF&line=61dafb&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Activity Graph">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarthak-lama&custom_title=Sarthak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A277FF&line=61dafb&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true" alt="Activity Graph">
 
 ---
 
