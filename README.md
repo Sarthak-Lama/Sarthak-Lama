@@ -36,7 +36,7 @@ I'm an **aspiring backend developer** from Nepal, currently on an exciting journ
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sarthak-lama-429200286" target="_blank">
+<a href="www.linkedin.com/in/sarthak-l-429200286" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:sarthaklama068@gmail.com">
